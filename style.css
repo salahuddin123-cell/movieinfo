@@ -1,0 +1,31 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+text-decoration: none;
+}
+body{
+    background: dimgrey;
+}
+
+.container{
+    width: 80vw;
+    min-height: 50vh;
+    background-color: aquamarine;
+    margin-top: 50px;
+    border-radius: 20px;
+  
+}
+.uppur{
+    display: flex;
+  margin-left: 50%;
+  transform: translateX(-50%);
+}
+#inp{
+   border-radius: 5px;
+}
+#content{
+   
+    padding: 30px 30px;
+}
